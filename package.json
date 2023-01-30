@@ -1,7 +1,6 @@
 {
   "name": "fitness_app",
-  "homepage": "https://vladimir-silenko.github.io/exerciseGuide/",
-  "version": "0.1.0",
+  "homepage": "https://vladimir-silenko.github.io/exercise-guide/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.0",
