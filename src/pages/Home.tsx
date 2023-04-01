@@ -3,7 +3,6 @@ import React, { useEffect, useState } from 'react'
 import Exercises from '../components/Exercises'
 import HeroBanner from '../components/HeroBanner'
 import SearchExercises from '../components/SearchExercises '
-import { exerciseOptions, fetchData } from '../utils/fetchData'
 
 
 const Home = () => {
